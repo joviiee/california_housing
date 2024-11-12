@@ -13,5 +13,6 @@ This project uses various regression algorithms in sklearn module to solve the C
 ## 2. Using this resource
 
 For using this resource download this repo and set up a basic machine learning environment with the requirements.txt file using the command :<br>
-'''bash
+```bash
 pip install -r requirements.txt
+```
